@@ -20,6 +20,8 @@ BinaryFetch is in its **conceptual design phase**. This prototype provides:
 > ⚠️ **Note:** This prototype is **not a working application** or functional codebase. It exists solely for **design evaluation, feedback, and planning**.
 
 ---
+![Alt text](ss3.png)
+---
 
 ## Contents
 
@@ -111,3 +113,4 @@ For inquiries regarding the prototype, feedback, or permissions:
 
 **Author:** Maruf Hasan  
 **Administration:** BinaryOxide
+
