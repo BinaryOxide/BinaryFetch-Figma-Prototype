@@ -1,0 +1,30 @@
+BinaryFetch Design License
+
+Author: Maruf Hasan
+Administration: BinaryOxide
+
+Copyright © 2025 Maruf Hasan. All Rights Reserved.
+
+Scope and Rights:
+
+1. Ownership: All assets, design files, layouts, UI components, branding elements, and structural concepts contained in this repository are the exclusive intellectual property of Maruf Hasan under the administration of BinaryOxide.
+2. Exclusive Rights: Only Maruf Hasan is granted the rights to:
+
+   * Apply the design in any project
+   * Share, distribute, or republish the design
+   * Claim ownership of the design
+   * Modify, adapt, or create derivative works based on the design
+
+Restrictions:
+
+* No other individual or entity may copy, redistribute, modify, extract, republish, or use the design in any form, commercial or non-commercial, without explicit written permission from Maruf Hasan.
+* Any unauthorized use of the design may result in legal action, including takedown requests, copyright enforcement, or claims for damages.
+
+Usage:
+
+* The repository and files are provided strictly for viewing, study, and feedback purposes.
+* Functional replication, asset extraction, or creation of derivative works without explicit permission is prohibited.
+
+Updates:
+
+* The BinaryFetch design and repository will continue to receive updates, improvements, and refinements. All future versions are covered under this license.
